@@ -8,6 +8,7 @@ Women in Data Science
     <td>
      <p>
       - Schedule: [link](schedule.pdf)
+      <br>
       - Presentation: [link](Ushizima_Wids2020.pdf)
       </td>
  </tr>
