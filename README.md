@@ -7,9 +7,9 @@ Women in Data Science
     </td>
     <td>
      <p>
-      - Schedule: <a href=schedule.pdf>link</a>
+      - Schedule: <a href=schedule.pdf>[here]</a>
       <p>
-      - Presentation: [link](Ushizima_Wids2020.pdf)
+      - Presentation: <a href=Ushizima_Wids2020.pdf>[here]</a>
       </td>
  </tr>
 </table>
