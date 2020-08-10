@@ -10,6 +10,8 @@ Women in Data Science
       - Schedule: <a href=schedule.pdf>[here]</a>
       <p>
       - Presentation: <a href=Ushizima_Wids2020.pdf>[here]</a>
+      <p>
+      - Video: <a href=https://www.youtube.com/watch?v=Gq8QGr1J6lc>[here]<a>
       </td>
  </tr>
 </table>
